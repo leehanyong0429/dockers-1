@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:14.04
 MAINTAINER The finfraTeam Project <nowage@gmail.com>
 
 COPY ./start.sh /
